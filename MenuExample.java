@@ -7,7 +7,7 @@ class MenuExample
          Menu menu=new Menu("Menu");  
          Menu submenu=new Menu("Sub Menu");  
          MenuItem i1=new MenuItem("Item 1");  
-         MenuItem i2=new MenuItem("Item 2");  
+         MenuItem i2=new MenuItem("Item 2");  12
          MenuItem i3=new MenuItem("Item 3");  
          MenuItem i4=new MenuItem("Item 4");  
          MenuItem i5=new MenuItem("Item 5");  

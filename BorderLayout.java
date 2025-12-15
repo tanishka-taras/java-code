@@ -2,7 +2,7 @@ import java.awt.*;
 import javax.swing.*;
 public class BorderLayout{
 JFrame f;
-Border(){
+BorderLayout(){
 f= new JFrame();
 JButton b1 = new JButton("Top");
 JButton b2 = new JButton("Bottom");

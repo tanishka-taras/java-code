@@ -9,8 +9,7 @@ JFrame frameObj;
 GridLayoutExample()  
 {    
 frameObj = new JFrame();    
-  
- 
+    
 JButton btn1 = new JButton("1");    
 JButton btn2 = new JButton("2");    
 JButton btn3 = new JButton("3");    
@@ -34,7 +33,7 @@ frameObj.setSize(300, 300);
 frameObj.setVisible(true);    
 }  
   
- 
+
 public static void main(String argvs[])   
 {    
 new GridLayoutExample();    
